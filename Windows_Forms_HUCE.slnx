@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Bai2/Bai2.csproj" />
+  <Project Path="Bai3/Bai3.csproj" />
+  <Project Path="Bai4/Bai4.csproj" Id="dea479fb-6ba8-498e-a0a3-0c054ee57a5f" />
+  <Project Path="test/test.csproj" />
+  <Project Path="Windows_Forms_HUCE/Bai1.csproj" />
+</Solution>
